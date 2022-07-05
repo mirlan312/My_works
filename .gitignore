@@ -1,0 +1,11 @@
+.env
+venv
+.idea
+.vscode
+__pycache__/
+*.py[cod]
+*.so
+media
+test.py
+DeepSkils_lessons.py
+grafiks.py
